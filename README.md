@@ -1,12 +1,11 @@
 # Hi there, I'm Emmanuel Ekpobimi 👋
 
-> Frontend Developer & IT Training Specialist crafting engaging web experiences and empowering others through technology education.
+> Frontend Developer (React.js / Next.js) | Building Fast, Scalable Web Apps for Businesses | IT Trainer Helping Teams Upskill in Modern Tech.
 
 ## 🚀 Quick Overview
 
 - 🔭 Frontend Developer with expertise in React.js and Next.js
-- 👨‍🏫 Senior IT Trainer with 10+ years of experience
-- 🌱 Currently working on freelance web development projects
+- 👨‍🏫 IT Trainer (Technical Instructor) with 7+ years of experience
 - 💡 Passionate about creating intuitive user interfaces and sharing knowledge
 
 ## 💻 Tech Stack
@@ -17,6 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
@@ -27,19 +27,17 @@
 
 ### Frontend Development
 
-- Building responsive web applications
-- Implementing UI/UX designs
-- Cross-browser compatibility
-- API integration
-- Performance optimization
+- Develop and maintain responsive, high-performance web applications using React.js and Next.js.
+- Collaborate with clients to understand business requirements and transform wireframes into functional interfaces.
+- Optimize application performance using React hooks, lazy loading, and code splitting.
+- Implement version control workflows with Git and manage deployments via Netlify and Vercel.
 
 ### IT Training
 
-- Microsoft Office Suite
-- Google Workspace
-- Graphics Applications
-- CRM Tools
-- Custom training program development
+- Delivered hands-on training in web technologies, computer systems, and IT fundamentals.
+- Taught HTML, CSS, and JavaScript; guided students through real-world coding exercises.
+- Supported software installation, system troubleshooting, and basic networking setups.
+- Created structured course materials and assisted learners in debugging and deployment.
 
 ## 🌟 Recent Experience
 
@@ -61,7 +59,7 @@
   - Developing comprehensive programs
   - Mentoring junior staff
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 [Portfolio Website](https://emmanuel4real.netlify.app/) |
 [LinkedIn](https://www.linkedin.com/in/emmanuel-ekpobimi-7ab32b9b/) |
