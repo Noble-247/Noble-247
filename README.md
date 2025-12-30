@@ -48,13 +48,13 @@
   - API integration and UI/UX implementation
   - Cross-browser compatibility and accessibility optimization
 
-- **ShadowFox** - Web Developer (Virtual Internship)
+- **ShadowFox** - Web Developer (Virtual Internship) - (Jan 2025 - Feb 2025)
 
   - Developed responsive portfolio website
   - Enhanced e-commerce UX
   - Full-stack client project collaboration
 
-- **Xplorers Training School** - Senior IT Trainer
+- **Xplorers Training School** - Senior IT Trainer (Technical Instructor) - (2014 - Present)
   - Leading training initiatives
   - Developing comprehensive programs
   - Mentoring junior staff
